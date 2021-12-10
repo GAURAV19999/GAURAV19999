@@ -1,7 +1,7 @@
 ### 			Hi there, I'm [Gaurav KR Vish](https://iamgaurav.netlify.app) </align><img  src="github/mylogooriginal.png" height="" width="300" alt="coding cat">
 <img align='right' src="/github/cat.gif" height="" width="300" alt="coding cat"> <img src="/github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=npx+i+gaurav+kr+vish!;npm+i+gaurav+kr+vish;Do+you+like+my+Portfolio!&center=true&width=360&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=i+am+gaurav+kr+vish!;i+am+gaurav+kr+vish;Do+you+like+my+Portfolio!&center=true&width=360&height=50">
 </p>
 
 <p>
