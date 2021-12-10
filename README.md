@@ -51,83 +51,9 @@
 
 ![Gaurav KR Vish github activity graph](https://activity-graph.herokuapp.com/graph?username=GAURAV19999&theme=dracula)
 
-## Technologies I have used
 
-<table >
-<tr align="center">
-<td >
-<img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width="60"/>
-</td>
-<td >
-<img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" width="60"/>
-		</td>
-		<td >
-			<img align="left" alt="Visual Studio Code" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-		</td>
-		<td >
-			<img align="left" alt="HTML5" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-      </td>
-		<td >
-          <img align="left" alt="CSS3" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-      </td>
-      <td>
-         <img align="left" alt="JavaScript" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-      </td>
-           <td>
-         <img align="left" alt="Git" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-      </td>
-      <td>
-         <img width="60" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-      </td>
-      <td>
-         <img align="left" alt="Terminal" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-      </td>
-	</tr>
-	<tr align="center">
-		<td>Node.js</td>
-		<td>Next.js</td>
-		<td>Visual Studio Code.</td>
-		<td>Html</td>
-		<td>Css</td>
-		<td>js</td>
-		<td>Sql</td>
-		<td>MySql</td>
-		<td>git</td>
-		<td>github</td>
-		<td>Terminal</td>
-	</tr>
-</table>
-<table >
-	<tr align="center">
-		<td>
-			<img src="/github/icons/materialui.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/github/icons/bootstrap.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/github/icons/s3.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/github/icons/mongodb.svg" width="60"/>
-		</td>
-		<td>
- 		<img  width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-      		</td>
-   		   <td>
-    		     <img alt="MySQL" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
- 		     </td>
-	</tr>
-	<tr align="center">
-		<td>Material-UI</td>
-		<td>Bootstrap</td>
-		<td>AWS S3</td>
-		<td>MongoDB</td>
-				<td>SqlDB</td>
-						<td>MysqlDB</td>
-	</tr>
-</table>
-
+<h3 align="left">Technologies I have used:-</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.ibm.com/in-en/products/spss-statistics" target="_blank"> <img src="https://itnews.blog.fordham.edu/wp-content/uploads/2018/02/SPSS-IBM.png" alt="IBM SPSS" width="40" height="40"/> </a> <a href="https://www.r-project.org/about.html" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.tableau.com/themes/custom/tableau_www/logo.png" alt="Tableau" width="150" height="40"/> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png" alt="Numpy" width="70" height="40"/> </a> <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/> </a> </a> </p>
 ---
 
 ## <img src="/github/code.gif" width="32" align="left"> See my projects - [Gaurav KR Vish/projects](https://iamgaurav.netlify.app)
