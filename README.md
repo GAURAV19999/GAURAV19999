@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on [NLP]
 - 🌱 I’m currently working as a Data Analyst 
-- 💬 Ask me about NLP, ML, AI and Flsk,Python,R Programming, PowerBI, Tableau, Streamlit, Heroku 
+- 💬 Ask me about NLP, ML, AI and Flask,Python,R Programming, PowerBI, Tableau, Streamlit, Heroku 
 - 📫 How to reach me:[@Gaurav KR Vishwakarma](https://iamgaurav.netlify.app)
 
 </p>
