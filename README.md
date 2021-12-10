@@ -1,7 +1,7 @@
 ### 			Hi there, I'm [Gaurav KR Vish](https://iamgaurav.netlify.app) </align><img  src="github/mylogooriginal.png" height="" width="300" alt="coding cat">
 <img align='right' src="/github/cat.gif" height="" width="300" alt="coding cat"> <img src="/github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=npx+i+abhishekgarg!;npm+i+abhishekgarg;Do+you+like+my+Portfolio!&center=true&width=360&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=npx+i+gaurav+kr+vish!;npm+i+gaurav+kr+vish;Do+you+like+my+Portfolio!&center=true&width=360&height=50">
 </p>
 
 <p>
@@ -38,7 +38,7 @@
 
 ## HackerRank Certificates
 
-<a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
+<a href="Skills%20Certification/Python%20(advanced)%20Certificate.png">
     <img src="github/sql_basic.jpg" alt="sql advanced certificate" style="width:30%; height:30%;"/>
 </a>
 
@@ -129,4 +129,4 @@
 
 ---
 
-## <img src="/github/code.gif" width="32" align="left"> See my projects - [Abhishek garg/projects](https://iamabhishekgarg.tech/#portfolio)
+## <img src="/github/code.gif" width="32" align="left"> See my projects - [Gaurav KR Vish/projects](https://iamgaurav.netlify.app)
