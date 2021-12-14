@@ -1,5 +1,7 @@
-### 	Hi there, I'm [Gaurav KR Vishwakarma](https://iamgaurav.netlify.app) </align>
-<img src="github/mylogooriginal.png" height="" width="300" alt="coding cat">
+![hello](https://user-images.githubusercontent.com/23444642/99659283-a6f52500-2a86-11eb-9cbc-11479bc8d9f7.gif)
+## [Gauarv KR Vishwakarma](https://iamgaurav.netlify.app) </align>
+![](https://komarev.com/ghpvc/?username=GAURAV19999)
+<!-- <img src="github/mylogooriginal.png" height="" width="300" alt="coding cat"> -->
 <img align='right' src="/github/cat.gif" height="" width="300" alt="coding cat"> <img src="/github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=i+am+gaurav+kr+vish!;i+am+gaurav+kr+vish;Do+you+like+my+Portfolio!&center=true&width=360&height=50">
@@ -34,6 +36,7 @@
 - 🌱 I’m currently working as a Data Analyst 
 - 💬 Ask me about NLP, ML, AI and Flask,Python,R Programming, PowerBI, Tableau, Streamlit, Heroku 
 - 📫 How to reach me:[@Gaurav KR Vishwakarma](https://iamgaurav.netlify.app)
+![](https://komarev.com/ghpvc/?username=GAURAV19999)
 
 </p>
 
@@ -43,11 +46,13 @@
     <img src="github/sql_basic.jpg" alt="sql advanced certificate" style="width:20%; height:20%;"/>
 </a>
 
+<p>
+	
+![](https://github-readme-stats.vercel.app/api?username=GAURAV19999&repo=github-readme-stats&show_icons=true&theme=vue-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV19999&layout=compact&theme=vue-dark)
 
+</p>
 				
-![Gaurav KR Vish Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GAURAV19999&show_icons=true&include_all_commits=true&theme=radical)
-
-![Gaurav KR Vish Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GAURAV19999&layout=compact&theme=radical)
 
 ![Gaurav KR Vish github activity graph](https://activity-graph.herokuapp.com/graph?username=GAURAV19999&theme=dracula)
 
@@ -57,3 +62,6 @@
 ---
 
 ## <img src="/github/code.gif" width="32" align="left"> See my projects - [Gaurav KR Vish/projects](https://iamgaurav.netlify.app)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/GAURAV19999"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="GAURAV19999" /></a></p>
+
