@@ -1,4 +1,4 @@
-![hello](https://user-images.githubusercontent.com/23444642/99659283-a6f52500-2a86-11eb-9cbc-11479bc8d9f7.gif)
+<!-- ![hello](https://user-images.githubusercontent.com/23444642/99659283-a6f52500-2a86-11eb-9cbc-11479bc8d9f7.gif) -->
 ## [Gauarv KR Vishwakarma](https://iamgaurav.netlify.app) </align>
 <!-- ![](https://komarev.com/ghpvc/?username=GAURAV19999) -->
 <!-- <img src="github/mylogooriginal.png" height="" width="300" alt="coding cat"> -->
@@ -40,10 +40,10 @@
 
 </p>
 
-## HackerRank Certificates
+<!--## HackerRank Certificates -->
 
 <a href="Skills%20Certification/Python%20(advanced)%20Certificate.png">
-    <img src="github/sql_basic.jpg" alt="sql advanced certificate" style="width:20%; height:20%;"/>
+<!--     <img src="github/sql_basic.jpg" alt="sql advanced certificate" style="width:20%; height:20%;"/> -->
 </a>
 
 <p>
