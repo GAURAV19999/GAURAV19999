@@ -49,7 +49,11 @@
 <p>
 
 </p>
-![Gaurav KR Vish Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GAURAV19999&layout=compact&theme=radical)				
+                                                                                                      
+                                                                                                      
+![Gaurav KR Vish Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GAURAV19999&layout=compact&theme=radical)	
+                                                                                                      
+                                                                                                      
 ![Gaurav KR Vish github activity graph](https://activity-graph.herokuapp.com/graph?username=GAURAV19999&theme=dracula)
 
 ### Dashboards
