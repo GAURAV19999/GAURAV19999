@@ -47,7 +47,7 @@
 </a>
 
 <p>
-![Gaurav KR Vish Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GAURAV19999&show_icons=true&include_all_commits=true&theme=radical)
+![Gaurav KR Vish Github Stats](https://github-readmestats.anuraghazra1.vercel.app/api/username=GAURAV19999&show_icons=true&include_all_commits=true&theme=radical)
 
 </p>
 												      
