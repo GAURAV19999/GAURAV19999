@@ -47,12 +47,11 @@
 </a>
 
 <p>
-	
-![](https://github-readme-stats.vercel.app/api?username=GAURAV19999&repo=github-readme-stats&show_icons=true&theme=vue-dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV19999&layout=compact&theme=vue-dark)
+![Gaurav KR Vish Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GAURAV19999&show_icons=true&include_all_commits=true&theme=radical)
 
 </p>
-				
+												      
+![Gaurav KR Vish Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GAURAV19999&layout=compact&theme=radical)				
 
 ![Gaurav KR Vish github activity graph](https://activity-graph.herokuapp.com/graph?username=GAURAV19999&theme=dracula)
 
