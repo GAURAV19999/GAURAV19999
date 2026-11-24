@@ -1,68 +1,31 @@
-<!-- ![hello](https://user-images.githubusercontent.com/23444642/99659283-a6f52500-2a86-11eb-9cbc-11479bc8d9f7.gif) -->
-## [Gauarv KR Vishwakarma](https://iamgaurav.netlify.app) </align>
-<!-- ![](https://komarev.com/ghpvc/?username=GAURAV19999) -->
-<!-- <img src="github/mylogooriginal.png" height="" width="300" alt="coding cat"> -->
-<img align='right' src="/github/cat.gif" height="" width="300" alt="coding cat"> <img src="/github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=i+am+gaurav+kr+vish!;i+am+gaurav+kr+vish;Do+you+like+my+Portfolio!&center=true&width=360&height=50">
-</p>
+<h1 align="center">Gaurav KR Vishwakarma</h1><p align="center"> <b>IBM & UTM Certified Data Scientist</b> | Data Analyst at Acuity Knowledge Partners, Gurgaon<br/> <i>Looking for a new challenge in Data Science & Analytics | Highly skilled in Python</i> </p><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Gaurav+KR+Vish!;Do+you+like+my+Portfolio!;Data+Analyst+%7C+NLP+%7C+Machine+Learning" alt="Typing SVG" /> </p><table> <tr> <td valign="top" width="65%">
+👋 Connect with me
+<a href="https://twitter.com/krgaurav959"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.youtube.com/channel/UC0b5om9jKMte8H0Ndqw7SfA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.linkedin.com/in/gauravkumarvishwakarma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:gauravkumarvishwakarma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://iamgaurav.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
-<p>
-<a href="https://twitter.com/krgaurav959">
-   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+🔭 I'm currently working on NLP
+🌱 I'm currently working as a Data Analyst
+💬 Ask me about NLP, ML, AI, Flask, Python, R Programming, PowerBI, Tableau, Streamlit, Heroku
+📫 How to reach me: @Gaurav KR Vishwakarma
+Profile Views
 
-<a href="https://www.youtube.com/channel/UC0b5om9jKMte8H0Ndqw7SfA">
-   <img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<!-- 
-<a href="">
-   <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
- -->
-<a href="https://www.linkedin.com/in/gauravkumarvishwakarma/">
-   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:gauravkumarvishwakarma@gmail.com"">
-   <img align="left" alt="gmail" src=https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white%22/>
-</a>
+</td> <td valign="top" align="center" width="35%"><img src="https://github.com/GAURAV19999/GAURAV19999/raw/main/github/cat.gif" alt="Coding Cat" width="300" /></td> </tr> </table>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GAURAV19999&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Gaurav KR Vish GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV19999&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="48%" /> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=GAURAV19999&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" alt="Gaurav KR Vish GitHub Activity Graph" width="95%" /> </p>
+📈 Dashboards
+Super Store Dashboard — Superstore Sales Analysis Dashboard on Tableau
+🛠️ Technologies I Have Used
+<p align="center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/R-2763E3?style=for-the-badge&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </p><p align="center"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013328?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> </p><p align="center"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/IBM_SPSS-0066FF?style=for-the-badge" alt="IBM SPSS" /> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /> </p>
+🚀 See My Projects
+<p align="center"> <img src="https://github.com/GAURAV19999/GAURAV19999/raw/main/github/code.gif" alt="Code" width="120" /> </p>
+👉 Gaurav KR Vish / projects — My Portfolio Website
 
-<p/>
+👉 GitHub Repositories
 
-<br/>
-<p>
+☕ Support
+<a href="https://www.buymeacoffee.com/GAURAV19999" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" /></a>
 
-- 🔭 I’m currently working on [NLP]
-- 🌱 I’m currently working as a Data Analyst 
-- 💬 Ask me about NLP, ML, AI and Flask,Python,R Programming, PowerBI, Tableau, Streamlit, Heroku 
-- 📫 How to reach me:[@Gaurav KR Vishwakarma](https://iamgaurav.netlify.app)
-![](https://komarev.com/ghpvc/?username=GAURAV19999)
-
-</p>
-
-<!--## HackerRank Certificates -->
-
-<a href="Skills%20Certification/Python%20(advanced)%20Certificate.png">
-<!--     <img src="github/sql_basic.jpg" alt="sql advanced certificate" style="width:20%; height:20%;"/> -->
-</a>
-
-<p>
-
-</p>
-                                                                                                      
-                                                                                                      
-![Gaurav KR Vish Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GAURAV19999&layout=compact&theme=radical)	
-                                                                                                      
-                                                                                                      
-![Gaurav KR Vish github activity graph](https://activity-graph.herokuapp.com/graph?username=GAURAV19999&theme=dracula)
-
-### Dashboards
-- [Super Store Dashboard](https://public.tableau.com/views/SuperstoreSalesAnalysisDashboard_16281781742050/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-<h3 align="left">Technologies I have used:-</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.ibm.com/in-en/products/spss-statistics" target="_blank"> <img src="https://itnews.blog.fordham.edu/wp-content/uploads/2018/02/SPSS-IBM.png" alt="IBM SPSS" width="40" height="40"/> </a> <a href="https://www.r-project.org/about.html" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.tableau.com/themes/custom/tableau_www/logo.png" alt="Tableau" width="150" height="40"/> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png" alt="Numpy" width="70" height="40"/> </a> <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/> </a> </a> </p>
----
-
-## <img src="/github/code.gif" width="32" align="left"> See my projects - [Gaurav KR Vish/projects](https://iamgaurav.netlify.app)
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/GAURAV19999"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="GAURAV19999" /></a></p>
-
+<p align="center"> <img src="https://github.com/GAURAV19999/GAURAV19999/raw/main/github/community.gif" alt="Community" width="200" /> </p><p align="center">⭐ Thanks for visiting my profile! ⭐</p>
